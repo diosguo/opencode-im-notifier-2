@@ -1,6 +1,8 @@
-# opencode-im-notifier
+# opencode-im-notifier-2
 
-[![GitHub](https://img.shields.io/badge/GitHub-freakchick/opencode--im--notifier-181717?logo=github)](https://github.com/freakchick/opencode-im-notifier)
+[![GitHub](https://img.shields.io/badge/GitHub-diosguo/opencode--im--notifier--2-181717?logo=github)](https://github.com/diosguo/opencode-im-notifier-2)
+
+> ⚠️ **重要说明**：本项目是 [freakchick/opencode-im-notifier](https://github.com/freakchick/opencode-im-notifier) 的**二次开发改造**版本，主要目的是适配 **OpenCode 2.x** 版本。原始项目请访问 https://github.com/freakchick/opencode-im-notifier。
 
 OpenCode 插件 — 当 OpenCode 执行完毕或需要用户确认时，自动发送通知到**钉钉**、**飞书**、**企业微信**群。
 
